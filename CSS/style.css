@@ -1,0 +1,13 @@
+h1 {
+    border: 1px solid red;
+    margin:200px;
+    padding: 60px;
+} 
+
+p {
+    text-align: center;
+}
+
+button {
+    align-items: center;
+}
